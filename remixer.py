@@ -69,7 +69,6 @@ def main():
     Parses user input for songs and an optional duration.
     Creates and calls the Remixer class.
     """
-    import sys
     import argparse
 
     parser = argparse.ArgumentParser(usage='remixer.py [songs] [-dur]')
