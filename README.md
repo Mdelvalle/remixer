@@ -1,5 +1,4 @@
 # Remixer
-=========
 ### Using the [Echo Nest Remix] (http://echonest.github.io/remix/), mash your songs together to create a mix.
 ------------------------------------------------------------------------------------------------------------
 ### Still very pre-Alpha; I plan on adding some more features as soon as time lets me, such as:
